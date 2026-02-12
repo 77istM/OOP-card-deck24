@@ -1,5 +1,5 @@
 # OOP-card-deck24
-Endgame Project netbeans JAVA OOP
+Endgame Project netbeans JAVA OOP P1
 
 - Built an object‑oriented card‑deck model, learning how to design clean classes, attributes, and behaviours.
 - Implemented logic to draw unique cards and extend functionality into Higher/Lower or Blackjack, reinforcing encapsulation and state management.
